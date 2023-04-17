@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@300;400&display=swap');
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Anuphan', sans-serif;
+}
+
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+header {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+.background {
+	height: 100vh;
+	background-image: url('public/sumner-mahaffey-7Y0NshQLohk-unsplash.jpg');
+	background-size: cover;
+	background-position: center;
+	position: relative;
+	overflow: hidden;
+}
+
+.background:hover {
+  cursor: pointer;
+}
+
+.overlay {
+	height: 100%;
+	width: 100%;
+	background-color: rgba(0, 0, 0, 0.3);
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+}
+
+.content {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 2;
+	color: #fff;
+	text-align: center;
+}
+
+.content h2 {
+	font-size: 6.0vh;
+	margin-bottom: 20px;
+}
+
+.content p {
+	font-size: 3vmin;
+	line-height: 1.5;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+footer {
+	text-align: center;
+	margin-top: 50px;
+}
+
+@keyframes move-bg {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: 100% 0;
+	}
+}
+
+@-webkit-keyframes move-bg {
+	0% {
+		background-position: 0 0;
+	}
+	100% {
+		background-position: 100% 0;
+	}
+}
+
+.background {
+	animation: move-bg 20s linear infinite;
+  -webkit-animation: move-bg 20s linear infinite;
+}
