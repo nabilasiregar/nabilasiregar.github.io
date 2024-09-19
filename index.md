@@ -6,7 +6,7 @@
   </head>
   <body>
     <h3>Hi, I'm Nabila👋🏼👩🏽‍💻</h3>
-    <p><img src="assets/prof.jpg" style="width:100px; height:auto; vertical-align:middle; margin-left:10px;">I am a final year master's student in Computational Science @ University of Amsterdam. I did my bachelor in Chemistry @ Institut Teknologi Bandung and made the switch to software engineering prior to my master. I am deeply interested in machine learning and causal inference. My latest research project is causal discovery analysis on major depressive disorder and metabolic syndrome.</p>
+    <p><img src="assets/prof.jpg" style="width:100px; height:auto; float:left; margin-right:10px;">I am a final year master's student in Computational Science @ University of Amsterdam. I did my bachelor in Chemistry @ Institut Teknologi Bandung and made the switch to software engineering prior to my master. I am deeply interested in machine learning and causal inference. My latest research project is causal discovery analysis on major depressive disorder and metabolic syndrome.</p>
 
     <h4>Projects:</h4>
     <ul>
