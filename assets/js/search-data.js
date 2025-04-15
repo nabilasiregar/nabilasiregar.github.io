@@ -452,7 +452,7 @@ ninja.data = [{
         title: 'Medium',
         section: 'Socials',
         handler: () => {
-          window.open("https://medium.com/@nabilasiregar", "_blank");
+          window.open("https://medium.com/@nabilashares", "_blank");
         },
       },{
       id: 'light-theme',
