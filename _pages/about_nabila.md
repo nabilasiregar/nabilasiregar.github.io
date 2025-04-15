@@ -1,0 +1,5 @@
+I am a final-year master’s student in Computational Science at the University of Amsterdam with two years of professional experience in software engineering.
+
+During my graduate studies, I interned as a Machine Learning Engineer at ING Bank. I also contributed to a research project on causal discovery in major depressive disorder and metabolic syndrome, supervised by [Dr. Rick Quax](https://staff.fnwi.uva.nl/r.quax/) in collaboration with PhD student Angela Koloi.
+
+Currently, I am working on my master’s thesis, which sits at the intersection of natural language processing and deep reinforcement learning. Under the supervision of [Dr. Raquel G. Alhama](https://rgalhama.github.io/) and [Phong Le](https://sites.google.com/site/lephongxyz/home), I am exploring emergent communication in deep learning agents, specifically, whether they can develop compositional language to solve a navigational task in referential game. Broadly, I am interested in the reasoning capabilities of AI systems.
