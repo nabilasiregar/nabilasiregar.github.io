@@ -1,11 +1,14 @@
 github_users:
   - nabilasiregar
 
-repo_description_lines_max: 2
+repo_description_lines_max: 5
 
 github_repos:
-  - nabilasiregar/stochastic-simulation
-  - nabilasiregar/expedia-kaggle-competition
   - nabilasiregar/abm-project
+  - nabilasiregar/complex-systems-simulation
   - nabilasiregar/EpiModel
+  - nabilasiregar/expedia-kaggle-competition
+  - nabilasiregar/nesda
+  - nabilasiregar/scientific-machine-learning
+  - nabilasiregar/stochastic-simulation
 
